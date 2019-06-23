@@ -2,6 +2,8 @@
 
 https://github.com/pkcwong/spring-react-starter
 
+[![CircleCI](https://circleci.com/gh/pkcwong/spring-react-starter.svg?style=shield)](https://circleci.com/gh/pkcwong/spring-react-starter)
+
 A starter repo to building a web application with ReactJS, using the Java Spring framework.
 
 ### Prerequisites and Installation
