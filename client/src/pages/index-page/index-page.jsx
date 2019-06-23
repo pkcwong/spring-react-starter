@@ -4,10 +4,6 @@ import { LocaleAction } from "../../redux/actions/locale-action";
 
 class Component extends React.Component {
 
-	constructor(props) {
-		super(props);
-	}
-
 	render() {
 		return (
 			<React.Fragment>
